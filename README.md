@@ -1,7 +1,7 @@
 
 # pacman_game
 
-We're implementing some important functionality for a fully playable mini Pac-Man game. 
+Implemented some important functionality for a fully playable mini Pac-Man game. 
 You could open it up in the Processing Python mode environment in the Processing lab.
 
 ## Pinky's AI
