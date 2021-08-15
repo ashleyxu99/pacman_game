@@ -25,3 +25,6 @@ To get the dot-eating functionality working, we worked on `pacman.py`, `maze.py`
 Run Pytest from the command line in your sketch's directory. I have implemened the tests so that they successfully test the dot-eating functionality.
 
 ![pacman](https://user-images.githubusercontent.com/76242903/129495595-5749a94d-28f2-4709-afcc-e4f41dc2b188.png)
+
+## Contributers
+* Ashley Xu, LinkedIn: https://www.linkedin.com/in/ashley-xu/
