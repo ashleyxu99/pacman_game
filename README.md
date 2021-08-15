@@ -18,8 +18,8 @@ We'd like to give Pinky some rudimentary AI, so that Pinky chases Pac-Man around
 To get the dot-eating functionality working, we worked on `pacman.py`, `maze.py`, and `dots.py`. We figured out:  
 
 * How the objects relate to each other in the game. Which object has access to which other objects?
-* How the individual dots are displayed, and how the full collection of dots is represented within the context of the maze.
-* How the conditions for winning (setting game controller's player_wins attribute) are evaluated.
+* How the individual dots are displayed, and how the full collection of dots is represented within the context of the maze?
+* How the conditions for winning (setting game controller's player_wins attribute) are evaluated?
 
 ## Implement tests
 Run Pytest from the command line in your sketch's directory. I have implemened the tests so that they successfully test the dot-eating functionality.
