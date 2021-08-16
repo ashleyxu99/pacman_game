@@ -26,5 +26,5 @@ Run Pytest from the command line in your sketch's directory. I have implemened t
 
 ![pacman](https://user-images.githubusercontent.com/76242903/129495595-5749a94d-28f2-4709-afcc-e4f41dc2b188.png)
 
-## Contributers
+## Contributors
 * Ashley Xu, LinkedIn: https://www.linkedin.com/in/ashley-xu/
